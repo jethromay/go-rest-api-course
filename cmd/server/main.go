@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // App - Struct which contains pointers and other things like db connections.
 type App struct {
